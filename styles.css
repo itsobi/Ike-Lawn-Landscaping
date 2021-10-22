@@ -404,7 +404,11 @@ footer {
 .footer a {
   font-size: 1.6rem;
   color: var(--light-grayish-blue);
-  text-decoration: none;
+  /* text-decoration: none; */
+}
+
+.footer p {
+  font-size: 1.4rem;
 }
 
 
@@ -566,6 +570,7 @@ footer {
   .footer a {
     font-size: 1.4rem;
     color: var(--light-grayish-blue);
+    padding: .4rem 0;
   }
 
   
