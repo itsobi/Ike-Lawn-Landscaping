@@ -35,7 +35,7 @@ section {
 
 /* VARIABLES */
 :root {
-  --red: rgb(141, 14, 14);
+  --red: rgb(141, 13, 13);
   --grayish-blue: hsl(233, 8%, 62%);
   --light-grayish-blue: hsl(220, 16%, 96%);
   --white:hsl(0, 0%, 100%);
@@ -288,6 +288,8 @@ strong {
 
 .service-item {
   margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
 }
 
 .service-item-box {
@@ -328,11 +330,6 @@ strong {
   font-weight: 500;
   font-size: 1.6rem;
   color: var(--grayish-blue);
-}
-
-.service-item {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
 }
 
 /* TESTIMONIAL SECTION */
@@ -404,7 +401,7 @@ footer {
 .footer a {
   margin: 0 auto;
   font-size: 2rem;
-  color: black;
+  color: var(--grayish-blue);
   text-decoration: none;
 }
 
@@ -570,6 +567,10 @@ footer {
   /* FOOTER */
   /* FOOTER */
 
+  .footer {
+    padding-bottom: 1rem;
+  }
+
   .footer-text {
     justify-content: space-between;
   }
@@ -581,6 +582,7 @@ footer {
   .footer a {
     font-size: 1.6rem;
     padding: .4rem 0;
+    color: white;
   }
 
 }
