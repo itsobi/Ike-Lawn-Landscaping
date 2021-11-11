@@ -9,11 +9,12 @@
 
 html {
   font-size: 10px;
-  overflow-x: hidden;
+  
 }
 
 body {
   font-family: 'Poppins', sans-serif;
+  overflow-x: hidden;
   width: 100%;
 }
 
@@ -453,6 +454,10 @@ footer {
 /* MOBILE RESPONSIVE */
 /* MOBILE RESPONSIVE */
 @media screen and (max-width: 600px) {
+
+  body {
+    width: 100vw;
+  }
 
   .hamburger {
     display: inline-block;
