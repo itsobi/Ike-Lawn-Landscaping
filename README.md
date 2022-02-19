@@ -8,7 +8,7 @@ Freelance project that has an About Us, Photo Gallery, Services, and Testimonial
 
 ## Technologies Used
 
-HTML, CSS
+HTML, CSS, JavaScript.
 
 ## Quick Start
 
