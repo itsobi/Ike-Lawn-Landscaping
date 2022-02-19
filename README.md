@@ -1,6 +1,6 @@
 ## Ike Lawn and Landscaping
 
-Website for DFW landscaping business.
+Website for Ike Lawn & landscaping.
 
 ## Project Desctiption
 
