@@ -4,7 +4,7 @@ Website for Ike Lawn & landscaping (local DFW landscaping business).
 
 ## Project Desctiption
 
-Freelance project that has an About Us, Photo Gallery, Services, and Testimonial sections.
+Freelance project that has an About Us, Photo Gallery, Services, and Testimonial section.
 
 ## Technologies Used
 
