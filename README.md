@@ -14,4 +14,4 @@ HTML, CSS, JavaScript.
 
 - Download zip file or clone the repository, and open it up in your text editor.
 
-- To open project in web browser, right click on `index.html` file and click "Open with Live Browser."
+- To open project in web browser, right click on `index.html` file and click "Open with Live Browser".
